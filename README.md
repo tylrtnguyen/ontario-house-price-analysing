@@ -1,4 +1,5 @@
 ## Ontario House Price Analyzing
-## Libraries used: NumPy, Pandas
-### Dataset link: http://bit.ly/ontariohouseprices
+## Final project - semester 6
+## Libraries used: NumPy, Pandas , Keras , tensorflow 
+### Dataset link: https://github.com/slavaspirin/Toronto-housing-price-prediction/blob/master/houses.csv
 
